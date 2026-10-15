@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-scroll-animation",
+  "version": "1.0.0",
+  "description": "Smooth scroll-based frame animation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
